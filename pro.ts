@@ -1,0 +1,3 @@
+interface Initial {
+    name:string
+}
